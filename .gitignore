@@ -1,0 +1,24 @@
+# Keil MDK 编译产物
+MDK-ARM/CAR/
+MDK-ARM/DebugConfig/
+MDK-ARM/RTE/
+*.o
+*.crf
+*.d
+*.axf
+*.lnp
+*.hex
+*.htm
+*.dep
+*.lst
+*.map
+*.uvguix.*
+
+# IAR
+EWARM/
+
+# 编辑器 / 系统
+.vs/
+*.bak
+Thumbs.db
+.DS_Store
